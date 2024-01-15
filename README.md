@@ -1,7 +1,7 @@
 ## Environment Setup
 1. Make sure you have [Node.js](https://nodejs.org/en/) and [git](https://git-scm.com/) installed.
 2. Clone this repository:
-`git clone https://gitlab.com/uiuc-web-programming/mp0 mp0`, then `cd mp0`
+`git clone https://github.com/leoked/autodesk_viewer.git`, then `cd autodesk_viewer`
 3. Install dependencies:
 `npm install`
 4. Start the dev server:
